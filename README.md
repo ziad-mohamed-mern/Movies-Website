@@ -26,11 +26,9 @@ Movies Website is a full-stack application built using the **MERN stack (MongoDB
 
 ## 💻 Screenshot
 
-_Add screenshots here (homepage, movie list, movie details)_
-
-```markdown
-![Homepage](./screenshots/home.png)
-![Movie Details](./screenshots/details.png)
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/5efeac65-160a-4487-9b06-4ed72e2a616c" />
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/03d1ffee-a288-4992-bd3b-3927c7668c9c" />
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/e9f59ff6-4a9b-4065-89c7-3b62a71fd304" />
 
 
 🛠️ Technologies Used
@@ -48,8 +46,7 @@ _Add screenshots here (homepage, movie list, movie details)_
 
 Before running this project, make sure you have:
 
-Node.js installed (https://nodejs.org/
-)
+Node.js installed (https://nodejs.org/)
 
 MongoDB database (local or hosted)
 
